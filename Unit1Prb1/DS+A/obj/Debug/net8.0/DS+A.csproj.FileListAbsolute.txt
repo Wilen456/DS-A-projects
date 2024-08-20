@@ -1,0 +1,14 @@
+C:\Users\0828228\source\repos\Unit1Prb1\DS+A\bin\Debug\net8.0\DS+A.exe
+C:\Users\0828228\source\repos\Unit1Prb1\DS+A\bin\Debug\net8.0\DS+A.deps.json
+C:\Users\0828228\source\repos\Unit1Prb1\DS+A\bin\Debug\net8.0\DS+A.runtimeconfig.json
+C:\Users\0828228\source\repos\Unit1Prb1\DS+A\bin\Debug\net8.0\DS+A.dll
+C:\Users\0828228\source\repos\Unit1Prb1\DS+A\bin\Debug\net8.0\DS+A.pdb
+C:\Users\0828228\source\repos\Unit1Prb1\DS+A\obj\Debug\net8.0\DS+A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0828228\source\repos\Unit1Prb1\DS+A\obj\Debug\net8.0\DS+A.AssemblyInfoInputs.cache
+C:\Users\0828228\source\repos\Unit1Prb1\DS+A\obj\Debug\net8.0\DS+A.AssemblyInfo.cs
+C:\Users\0828228\source\repos\Unit1Prb1\DS+A\obj\Debug\net8.0\DS+A.csproj.CoreCompileInputs.cache
+C:\Users\0828228\source\repos\Unit1Prb1\DS+A\obj\Debug\net8.0\DS+A.dll
+C:\Users\0828228\source\repos\Unit1Prb1\DS+A\obj\Debug\net8.0\refint\DS+A.dll
+C:\Users\0828228\source\repos\Unit1Prb1\DS+A\obj\Debug\net8.0\DS+A.pdb
+C:\Users\0828228\source\repos\Unit1Prb1\DS+A\obj\Debug\net8.0\DS+A.genruntimeconfig.cache
+C:\Users\0828228\source\repos\Unit1Prb1\DS+A\obj\Debug\net8.0\ref\DS+A.dll
